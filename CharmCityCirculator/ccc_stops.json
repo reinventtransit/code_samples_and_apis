@@ -1,0 +1,209 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "ROUTE": "GREEN", "STOP__": 101, "STOP_LOCAT": "Ashland Ave & Rutland Ave", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.592210, 39.300658 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 2, "ROUTE": "GREEN", "STOP__": 125, "STOP_LOCAT": "601 N Broadway", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.593970, 39.297375 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 3, "ROUTE": "GREEN", "STOP__": 103, "STOP_LOCAT": "N Broadway & E Fairmount Ave", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.594275, 39.294102 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 4, "ROUTE": "GREEN", "STOP__": 104, "STOP_LOCAT": "S Broadway & Gough St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.593800, 39.287695 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 5, "ROUTE": "GREEN", "STOP__": 105, "STOP_LOCAT": "S Broadway & Fleet St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.593699, 39.284631 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 6, "ROUTE": "GREEN", "STOP__": 106, "STOP_LOCAT": "Aliceanna & S Caroline St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.596450, 39.283509 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 7, "ROUTE": "GREEN", "STOP__": 107, "STOP_LOCAT": "Aliceanna & S Central Ave", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.598859, 39.283443 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 8, "ROUTE": "GREEN", "STOP__": 108, "STOP_LOCAT": "645 S President St", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.601308, 39.283369 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 9, "ROUTE": "GREEN", "STOP__": 109, "STOP_LOCAT": "145 S President St", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.604228, 39.287769 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 10, "ROUTE": "GREEN", "STOP__": 110, "STOP_LOCAT": "S President St & E Baltimore St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.605625, 39.289881 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 11, "ROUTE": "GREEN", "STOP__": 111, "STOP_LOCAT": "Fallsway & N Gay St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.607992, 39.292653 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 12, "ROUTE": "GREEN", "STOP__": 114, "STOP_LOCAT": "Guilford Ave & E Lexington St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.611322, 39.291038 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 13, "ROUTE": "GREEN", "STOP__": 115, "STOP_LOCAT": "E Baltimore St & S Gay St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.608686, 39.289617 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 14, "ROUTE": "GREEN", "STOP__": 116, "STOP_LOCAT": "E Baltimore St & S President St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.606169, 39.289742 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 15, "ROUTE": "GREEN", "STOP__": 117, "STOP_LOCAT": "S President St & Lombard St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.604908, 39.287937 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 16, "ROUTE": "GREEN", "STOP__": 118, "STOP_LOCAT": "720B Aliceanna St", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.601524, 39.282840 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 17, "ROUTE": "GREEN", "STOP__": 119, "STOP_LOCAT": "Aliceanna St & S Central Ave", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.599153, 39.283148 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 18, "ROUTE": "GREEN", "STOP__": 123, "STOP_LOCAT": "S Broadway & Gough St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.593418, 39.287724 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 19, "ROUTE": "GREEN", "STOP__": 124, "STOP_LOCAT": "N Broadway & E Fairmount Ave", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.593762, 39.294134 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 20, "ROUTE": "GREEN", "STOP__": 102, "STOP_LOCAT": "600 N Broadway", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.594465, 39.297181 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 21, "ROUTE": "GREEN", "STOP__": 126, "STOP_LOCAT": "N Washington St & E Madison Ave", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.589563, 39.299558 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 22, "ROUTE": "ORANGE", "STOP__": 201, "STOP_LOCAT": "E Lombard St & S President St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.605606, 39.288167 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 23, "ROUTE": "ORANGE", "STOP__": 203, "STOP_LOCAT": "E Lombard St & Light St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.613400, 39.287878 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 24, "ROUTE": "ORANGE", "STOP__": 205, "STOP_LOCAT": "W Lombard St. & S Howard St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.619144, 39.287678 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 25, "ROUTE": "ORANGE", "STOP__": 206, "STOP_LOCAT": "W. Lombard St. & S Greene St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.623373, 39.287548 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 26, "ROUTE": "ORANGE", "STOP__": 207, "STOP_LOCAT": "W. Lombard St. & Penn St.", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.626049, 39.287405 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 27, "ROUTE": "ORANGE", "STOP__": 208, "STOP_LOCAT": "W. Lombard & Martin Luther King Jr.", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.627902, 39.287319 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 28, "ROUTE": "ORANGE", "STOP__": 209, "STOP_LOCAT": "W. Baltimore St & N Fremont Ave", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.628745, 39.289114 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 29, "ROUTE": "ORANGE", "STOP__": 211, "STOP_LOCAT": "24 S Arlington St", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.635410, 39.287545 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 30, "ROUTE": "ORANGE", "STOP__": 212, "STOP_LOCAT": "W Pratt St at S Schroeder St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.632765, 39.285693 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 31, "ROUTE": "ORANGE", "STOP__": 214, "STOP_LOCAT": "W Baltimore St & N Fremont St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.628950, 39.288787 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 32, "ROUTE": "ORANGE", "STOP__": 215, "STOP_LOCAT": "W. Baltimore St & S Pine St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.626653, 39.288975 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 33, "ROUTE": "ORANGE", "STOP__": 216, "STOP_LOCAT": "W Baltimore St & S Greene St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.623803, 39.289107 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 34, "ROUTE": "ORANGE", "STOP__": 217, "STOP_LOCAT": "S Greene St & W Lombard St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.623793, 39.287531 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 35, "ROUTE": "ORANGE", "STOP__": 218, "STOP_LOCAT": "W Pratt St & S Eutaw St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.621362, 39.286164 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 36, "ROUTE": "ORANGE", "STOP__": 220, "STOP_LOCAT": "W Pratt St & S Sharp St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.617125, 39.286266 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 37, "ROUTE": "ORANGE", "STOP__": 221, "STOP_LOCAT": "E Pratt St & S Calvert St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.612388, 39.286410 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 38, "ROUTE": "ORANGE", "STOP__": 222, "STOP_LOCAT": "501 E Pratt St (Aquarium)", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.608626, 39.286515 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 39, "ROUTE": "ORANGE", "STOP__": 223, "STOP_LOCAT": "717 Eastern Ave", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.605994, 39.286636 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 40, "ROUTE": "ORANGE", "STOP__": 225, "STOP_LOCAT": "720B Aliceanna St", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.601616, 39.282850 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 41, "ROUTE": "ORANGE", "STOP__": 226, "STOP_LOCAT": "S Central Ave & Aliceanna St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.599289, 39.283069 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 42, "ROUTE": "ORANGE", "STOP__": 227, "STOP_LOCAT": "S Central Ave & Bank St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.599117, 39.286231 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 43, "ROUTE": "ORANGE", "STOP__": 228, "STOP_LOCAT": "E Lombard St & Lloyd St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.601357, 39.289709 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 44, "ROUTE": "ORANGE", "STOP__": 229, "STOP_LOCAT": "879 E Lombard St.", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.603552, 39.288800 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 45, "ROUTE": "PURPLE", "STOP__": 301, "STOP_LOCAT": "501 S Light St", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.612694, 39.283258 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 46, "ROUTE": "PURPLE", "STOP__": 302, "STOP_LOCAT": "S Calvert St & E Pratt St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.611781, 39.286814 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 47, "ROUTE": "PURPLE", "STOP__": 303, "STOP_LOCAT": "E Redwood St & Light St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.613472, 39.288968 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 48, "ROUTE": "PURPLE", "STOP__": 304, "STOP_LOCAT": "N Charles St & E Fayette St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.615032, 39.290246 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 49, "ROUTE": "PURPLE", "STOP__": 305, "STOP_LOCAT": "N Charles St & E Pleasant St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.615284, 39.293401 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 50, "ROUTE": "PURPLE", "STOP__": 306, "STOP_LOCAT": "N Charles St & E Hamilton St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.615441, 39.295581 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 51, "ROUTE": "PURPLE", "STOP__": 307, "STOP_LOCAT": "N Charles St & E Mount Vernon Pl", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.615178, 39.297544 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 52, "ROUTE": "PURPLE", "STOP__": 308, "STOP_LOCAT": "N Charles St & E Eager St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.615753, 39.300919 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 53, "ROUTE": "PURPLE", "STOP__": 309, "STOP_LOCAT": "N Charles St & E Biddle St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.615926, 39.303341 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 54, "ROUTE": "PURPLE", "STOP__": 310, "STOP_LOCAT": "1545 N Charles St (Penn Station)", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.616200, 39.307242 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 55, "ROUTE": "PURPLE", "STOP__": 311, "STOP_LOCAT": "1600 St. Paul St. (Penn Station)", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.614843, 39.307055 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 56, "ROUTE": "PURPLE", "STOP__": 312, "STOP_LOCAT": "St Paul St & E Preston St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.614654, 39.304482 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 57, "ROUTE": "PURPLE", "STOP__": 313, "STOP_LOCAT": "St Paul St & E Eager St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.614541, 39.301682 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 58, "ROUTE": "PURPLE", "STOP__": 315, "STOP_LOCAT": "St Paul St & E Centre St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.614195, 39.296245 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 59, "ROUTE": "PURPLE", "STOP__": 316, "STOP_LOCAT": "St Paul St & E Mulberry St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.614383, 39.294273 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 60, "ROUTE": "PURPLE", "STOP__": 317, "STOP_LOCAT": "St Paul St & E Saratoga St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.614163, 39.292407 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 61, "ROUTE": "PURPLE", "STOP__": 318, "STOP_LOCAT": "St Paul St & E Fayette St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.614025, 39.290310 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 62, "ROUTE": "PURPLE", "STOP__": 319, "STOP_LOCAT": "Light St & E Pratt St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.613664, 39.286647 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 63, "ROUTE": "PURPLE", "STOP__": 320, "STOP_LOCAT": "Light St & E Conway St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.613536, 39.284037 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 64, "ROUTE": "PURPLE", "STOP__": 322, "STOP_LOCAT": "Light St & E Montgomery St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.612889, 39.280073 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 65, "ROUTE": "PURPLE", "STOP__": 323, "STOP_LOCAT": "Light St & E Cross St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.612512, 39.277108 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 66, "ROUTE": "PURPLE", "STOP__": 325, "STOP_LOCAT": "S Charles St & E West St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.614078, 39.275610 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 67, "ROUTE": "PURPLE", "STOP__": 326, "STOP_LOCAT": "S Charles St & E Henrietta St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.614309, 39.278854 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 68, "ROUTE": "PURPLE", "STOP__": 327, "STOP_LOCAT": "Light St & Key Hwy", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.612546, 39.280413 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 69, "ROUTE": "GREEN", "STOP__": 112, "STOP_LOCAT": "N High St & Edison", "CORNER": "" }, "geometry": { "type": "Point", "coordinates": [ -76.609338, 39.295559 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 70, "ROUTE": "GREEN", "STOP__": 122, "STOP_LOCAT": "S Broadway & Aliceanna St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.593013, 39.283637 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 71, "ROUTE": "GREEN", "STOP__": 121, "STOP_LOCAT": "Aliceanna & S Caroline St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.596465, 39.283192 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 72, "ROUTE": "ORANGE", "STOP__": 202, "STOP_LOCAT": "E Lombard St & Commerce St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.609882, 39.287914 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 73, "ROUTE": "ORANGE", "STOP__": 204, "STOP_LOCAT": "W Lombard St and S Hanover St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.616201, 39.287798 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 74, "ROUTE": "PURPLE", "STOP__": 314, "STOP_LOCAT": "St Paul St & E Madison St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.614338, 39.298728 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 75, "ROUTE": "PURPLE", "STOP__": 321, "STOP_LOCAT": "Light St and E Lee St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.613240, 39.282094 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 76, "ROUTE": "GREEN", "STOP__": 113, "STOP_LOCAT": "E Pleasant St and Fallsway", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.609737, 39.294095 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 77, "ROUTE": "PURPLE", "STOP__": 324, "STOP_LOCAT": "Marshall St and E Ostend St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.613947, 39.272749 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 78, "ROUTE": "ORANGE", "STOP__": 210, "STOP_LOCAT": "N Poppleton St and W Fairmount Ave", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.631951, 39.289025 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 79, "ROUTE": "ORANGE", "STOP__": 213, "STOP_LOCAT": "S Poppleton St & W Baltimore St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.631915, 39.288198 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 80, "ROUTE": "ORANGE", "STOP__": 219, "STOP_LOCAT": "W Pratt St & S Howard St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.619548, 39.286159 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 81, "ROUTE": "ORANGE", "STOP__": 224, "STOP_LOCAT": "Eastern Ave & President St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.603213, 39.285273 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 82, "ROUTE": "GREEN", "STOP__": 120, "STOP_LOCAT": "S Caroline St & Thames St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.595857, 39.280283 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 83, "ROUTE": "BANNER", "STOP__": 401, "STOP_LOCAT": "Light St & Conway St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.613536, 39.284037 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 84, "ROUTE": "BANNER", "STOP__": 402, "STOP_LOCAT": "Light St & Lee St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.613240, 39.282094 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 85, "ROUTE": "BANNER", "STOP__": 403, "STOP_LOCAT": "Key Hwy & William St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.611468, 39.280419 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 86, "ROUTE": "BANNER", "STOP__": 404, "STOP_LOCAT": "Key Hwy & Covington St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.607345, 39.280539 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 87, "ROUTE": "BANNER", "STOP__": 405, "STOP_LOCAT": "Key Hwy & Jackson St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.605603, 39.275099 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 88, "ROUTE": "BANNER", "STOP__": 406, "STOP_LOCAT": "Key Hwy & Boyle St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.601659, 39.273112 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 89, "ROUTE": "BANNER", "STOP__": 407, "STOP_LOCAT": "Fort Ave & Lawrence St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.601411, 39.271367 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 90, "ROUTE": "BANNER", "STOP__": 408, "STOP_LOCAT": "Fort Ave & Woodall St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.598785, 39.270514 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 91, "ROUTE": "BANNER", "STOP__": 409, "STOP_LOCAT": "Fort Ave & Decatur St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.594911, 39.269171 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 92, "ROUTE": "BANNER", "STOP__": 410, "STOP_LOCAT": "Fort Ave & Andre St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.590927, 39.267770 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 93, "ROUTE": "BANNER", "STOP__": 411, "STOP_LOCAT": "Fort McHenry Bus Loop", "CORNER": "n\/a" }, "geometry": { "type": "Point", "coordinates": [ -76.580461, 39.265072 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 94, "ROUTE": "BANNER", "STOP__": 412, "STOP_LOCAT": "Fort Ave and Towson St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.592503, 39.268777 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 95, "ROUTE": "BANNER", "STOP__": 414, "STOP_LOCAT": "Fort Ave & Lawrence St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.601059, 39.271766 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 96, "ROUTE": "BANNER", "STOP__": 413, "STOP_LOCAT": "Fort Ave & Woodall St", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.598599, 39.270885 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 97, "ROUTE": "BANNER", "STOP__": 415, "STOP_LOCAT": "Key Hwy & Boyle St", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.601803, 39.273670 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 98, "ROUTE": "BANNER", "STOP__": 416, "STOP_LOCAT": "Key Hwy & Harbourview St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.604664, 39.275182 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 99, "ROUTE": "BANNER", "STOP__": 417, "STOP_LOCAT": "Key Hwy & Pierside Dr", "CORNER": "NE" }, "geometry": { "type": "Point", "coordinates": [ -76.606011, 39.277803 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 100, "ROUTE": "BANNER", "STOP__": 418, "STOP_LOCAT": "Key Hwy & Battery Ave", "CORNER": "NW" }, "geometry": { "type": "Point", "coordinates": [ -76.610082, 39.280891 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 101, "ROUTE": "BANNER", "STOP__": 419, "STOP_LOCAT": "Charles St & Conway St", "CORNER": "SE" }, "geometry": { "type": "Point", "coordinates": [ -76.614481, 39.283944 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 102, "ROUTE": "BANNER", "STOP__": 420, "STOP_LOCAT": "Pratt St & Light St", "CORNER": "SW" }, "geometry": { "type": "Point", "coordinates": [ -76.613618, 39.286335 ] } }
+
+]
+}
